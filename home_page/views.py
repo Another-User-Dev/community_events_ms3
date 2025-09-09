@@ -6,4 +6,3 @@ from django.http import HttpResponse
 
 def home(request):
     return HttpResponse("Hello, community events!")
-
